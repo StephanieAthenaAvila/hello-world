@@ -4,6 +4,6 @@ This is our first repository!
 <head>
 </head>
 <body>
-This is our hello worl repository! 
+This is our hello world repository! 
 </body>
 </html>
