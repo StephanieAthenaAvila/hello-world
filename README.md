@@ -6,6 +6,6 @@ This is our first repository!
 </head>
 <body>
 <h1>This is our hello world repository!</h1>
-<h2>blah blah blah</h2>
+<h2>Subheader</h2>
 </body>
 </html>
